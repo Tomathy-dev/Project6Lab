@@ -1,0 +1,20 @@
+
+^
+java:S2259a"CA "NullPointerException" could be thrown; "group" is nullable here.(çºãÌşÿÿÿÿ
+Y
+java:S2259["CA "NullPointerException" could be thrown; "group" is nullable here.(ˆ±ñ
+^
+java:S2259h"CA "NullPointerException" could be thrown; "group" is nullable here.(‹­Óùıÿÿÿÿ
+Y
+java:S2259T"CA "NullPointerException" could be thrown; "group" is nullable here.(œ´à‰
+Y
+java:S2259k"CA "NullPointerException" could be thrown; "group" is nullable here.(Êã“
+`
+java:S2095I"EUse try-with-resources or close this "Scanner" in a "finally" clause.(¶ßÆ´ùÿÿÿÿ
+k
+java:S3008"PRename this field "JOANA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ª¾øÿÿÿÿ
+m
+java:S3008"RRename this field "GABRIEL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½½¬Ûûÿÿÿÿ
+f
+java:S3008"PRename this field "MARIA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òàè·
+f	java:S128r"LEnd this switch case with an unconditional break, return or throw statement.(Ğª«÷üÿÿÿÿ
